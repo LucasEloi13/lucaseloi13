@@ -2,8 +2,6 @@
 
 🎓 Estudante de **Sistemas de Informação** e entusiasta de tecnologia, atualmente atuando como **Engenheiro de Dados**. Estou sempre buscando aprimorar minhas habilidades e explorar novas ferramentas, com foco em soluções escaláveis, eficientes e orientadas a dados.
 
-💼 Atualmente, trabalho com projetos que envolvem coleta, transformação e análise de grandes volumes de dados, utilizando tecnologias modernas e boas práticas de engenharia.
-
 ---
 
 ## 🚀 Tecnologias que utilizo 
