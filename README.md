@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Lucas Eloi!
 
-🎓 Estudante de **Sistemas de Informação** e entusiasta de tecnologia, atualmente atuando como **Engenheiro de Dados**. Estou sempre buscando aprimorar minhas habilidades e explorar novas ferramentas, com foco em soluções escaláveis, eficientes e orientadas a dados.
+🎓 Estudante de **Sistemas de Informação** e entusiasta de tecnologia, atualmente atuando como **Data Scientist Intern na Octaprice**. Estou sempre buscando aprimorar minhas habilidades e explorar novas ferramentas, com foco em soluções escaláveis, eficientes e orientadas a dados.
 
 ---
 
